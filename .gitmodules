@@ -1,0 +1,6 @@
+[submodule "control_bounded_filter_models"]
+	path = control_bounded_filter_models
+	url = https://github.com/GuavTek/control_bounded_filter_models
+[submodule "Control_bounded_filter_HDL"]
+	path = Control_bounded_filter_HDL
+	url = https://github.com/GuavTek/Control_bounded_filter_HDL
